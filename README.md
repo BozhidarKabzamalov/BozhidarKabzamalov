@@ -1,6 +1,6 @@
 # About Me
 
-As a dedicated and enthusiastic software engineer, I am committed to creating intuitive and visually appealing software that provide a seamless user experience. With over 2 years of experience in the field, I have developed a strong foundation in computer science and a diverse skill set in languages, frameworks, technologies and tools such as HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Vue.js, Node.js, MySQL, Git, Figma and Adobe Photoshop.
+As a dedicated and enthusiastic software engineer, I am committed to creating intuitive and visually appealing software that provide a seamless user experience. With over 4 years of experience in the field, I have developed a strong foundation in computer science and a diverse skill set in languages, frameworks, technologies and tools such as HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Vue.js, Node.js, MySQL, Git, Figma and Adobe Photoshop.
 
 I am constantly seeking to expand my knowledge and stay up to date on the latest industry trends. In my free time, I enjoy exploring new programming languages and finding ways to integrate them into my work.
 
