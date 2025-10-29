@@ -20,6 +20,12 @@ I am a team player and enjoy collaborating with others to bring ideas to life. I
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jest,netlify,npm,ps,postman,sentry,vscode,webpack,yarn)]()
 
+# Education
+
+## Master's Degree in Software Technology with Specialization in Software Architectures and Tools, University of Plovdiv "Paisii Hilendarski"
+
+## Bachelor's degree in Informatics, University of Plovdiv "Paisii Hilendarski"
+
 # How to reach me
 
 [LinkedIn](https://www.linkedin.com/in/bozhidar-kabzamalov/)
