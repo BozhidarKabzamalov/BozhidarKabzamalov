@@ -24,8 +24,7 @@ I am a team player and enjoy collaborating with others to bring ideas to life. I
 
 Master's Degree in Software Technology with Specialization in Software Architectures and Tools, University of Plovdiv "Paisii Hilendarski"
 
-_Oct, 2024 - Oct, 2025_
-
+_Oct, 2024 - Oct, 2025_  
 
 Bachelor's degree in Informatics, University of Plovdiv "Paisii Hilendarski"
 
