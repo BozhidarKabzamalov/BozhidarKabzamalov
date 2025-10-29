@@ -26,6 +26,7 @@ Master's Degree in Software Technology with Specialization in Software Architect
 
 _Oct, 2024 - Oct, 2025_
 
+
 Bachelor's degree in Informatics, University of Plovdiv "Paisii Hilendarski"
 
 _Sep, 2014 - Oct, 2018_
